@@ -1,3 +1,9 @@
+:warning::warning::warning::warning:
+# This project has been moved into https://github.com/xatier/dockerfiles
+:warning::warning::warning::warning:
+
+----
+
 # Docker iamge for diffoscope
 
 [diffoscope](https://diffoscope.org/) is a great tool for comparing files and
